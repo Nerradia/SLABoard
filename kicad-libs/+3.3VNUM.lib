@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.3  Date: 05/08/2017 16:28:15
+#encoding utf-8
+#
+# +3.3VNUM
+#
+DEF +3.3VNUM U 0 40 N Y 1 F P
+F0 "U" 0 0 60 H I C CNN
+F1 "+3.3VNUM" 0 150 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+P 6 0 1 0  0 0  0 50  -50 50  0 100  50 50  0 50 N
+X +3.3VNUM +3.3 0 0 100 L 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+#End Library

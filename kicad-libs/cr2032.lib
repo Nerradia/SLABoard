@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3  Date: 04/04/2017 22:03:51
+#encoding utf-8
+#
+# CR2032
+#
+DEF CR2032 B 0 40 Y Y 1 F N
+F0 "B" -250 -50 60 H V C CNN
+F1 "CR2032" -300 100 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+S -50 0 50 -50 0 1 0 N
+P 2 0 1 0  -200 50  200 50 N
+X ~ + 0 200 100 D 50 50 1 1 w
+X ~ - 0 -150 100 U 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library
